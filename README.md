@@ -12,7 +12,7 @@ A **Backend Engineer** passionate about building robust and scalable systems.
 ### 🌱 My Toolkit
 
 <p align="center">
-  <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=nextjs,react,typescript,sass,zustand,graphql,tanstackquery,vitest,python,django,docker,nginx,postgresql,gemini,aws,git" />
+  <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=nextjs,react,typescript,sass,graphql,vitest,python,django,docker,nginx,postgresql,aws,git" />
 </p>
 
 ---
