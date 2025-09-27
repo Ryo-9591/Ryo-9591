@@ -11,10 +11,8 @@ A **Backend Engineer** passionate about building robust and scalable systems.
 
 ### 🌱 My Toolkit
 
-I work primarily in the backend space, using the following technologies:
-
 <p align="center">
-  <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,fastapi,docker,aws,graphql,redis,postgres" />
+  <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=nextjs,react,typescript,sass,zustand,graphql,tanstackquery,vitest,python,django,docker,nginx,postgresql,gemini,aws,git" />
 </p>
 
 ---
