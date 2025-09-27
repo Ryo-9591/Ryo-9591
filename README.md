@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?Ryo-9591=Ryo-9591&color=blue" alt="Profile views">
-</div>
-
 ## 👋 Hello! I'm Ryo
 
 A **Backend Engineer** passionate about building robust and scalable systems.
