@@ -1,18 +1,30 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?Ryo-9591=Ryo-9591" />
+  <img src="https://komarev.com/ghpvc/?Ryo-9591=Ryo-9591&color=blue" alt="Profile views">
 </div>
 
+## 👋 Hello! I'm Ryo
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+A **Backend Engineer** passionate about building robust and scalable systems.
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-<br>
+### 💡 Currently Focusing On
 
+- 🧑‍💻 **Backend Development:** Building APIs and services with a focus on performance and maintainability.
+- 🌱 **Learning Go:** Diving deep into Go (Golang) to leverage its concurrency model and efficiency. I'm exploring its use for microservices and command-line tools.
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,python,fastapi,docker,aws,graghQL" />
-<br>
+---
+
+### 🌱 My Toolkit
+
+I work primarily in the backend space, using the following technologies:
+
+<p align="center">
+  <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,fastapi,docker,aws,graphql,redis,postgres" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryo-9591&show_icons=true&theme=dark&hide_title=true" alt="Ryo's GitHub Stats" />
+</p>
