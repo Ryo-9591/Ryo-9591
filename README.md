@@ -5,7 +5,6 @@ A **Backend Engineer** passionate about building robust and scalable systems.
 ### 💡 Currently Focusing On
 
 - 🧑‍💻 **Backend Development:** Building APIs and services with a focus on performance and maintainability.
-- 🌱 **Learning Go:** Diving deep into Go (Golang) to leverage its concurrency model and efficiency. I'm exploring its use for microservices and command-line tools.
 
 ---
 
