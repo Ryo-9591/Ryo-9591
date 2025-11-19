@@ -3,18 +3,6 @@
 A **Machine Learning Engineer & Data Scientist** based in Japan, passionate about building scalable data pipelines, deploying production ML systems, and exploring cutting-edge applications in computer vision and financial data analytics.
 
 ---
-
-## 🎯 What I Do
-
-- 🤖 **Machine Learning & AI**: Building and deploying ML models with PyTorch, TensorFlow, and Keras
-- 📊 **Data Engineering**: Designing robust ETL pipelines with Apache Airflow and containerized workflows
-- 🔗 **API Integration**: Connecting financial APIs (CoinGecko, CoinMarketCap) and building RESTful services
-- ☁️ **Cloud ML**: Leveraging AWS SageMaker, EC2, and S3 for model training and inference
-- 💻 **Backend Development**: Creating high-performance services with Python and modern frameworks
-- 🎥 **Computer Vision**: Developing posture detection and body mechanics analysis applications
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
