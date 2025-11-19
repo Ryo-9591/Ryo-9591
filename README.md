@@ -1,7 +1,4 @@
 ## 👋 Hi, I'm Ryo
-
-A **Machine Learning Engineer & Data Scientist** based in Japan, passionate about building scalable data pipelines, deploying production ML systems, and exploring cutting-edge applications in computer vision and financial data analytics.
-
 ---
 ## 🛠️ Tech Stack
 
@@ -20,14 +17,3 @@ A **Machine Learning Engineer & Data Scientist** based in Japan, passionate abou
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-9591&layout=compact&theme=dark&card_width=500" alt="Most Used Languages" />
 </p>
-
----
-
-## 🌐 Connect
-
-- 💼 **GitHub**: [@Ryo-9591](https://github.com/Ryo-9591)
-- 📧 **Let's collaborate on ML/Data projects**
-
----
-
-> Building the future, one model at a time.
