@@ -9,14 +9,6 @@ A **Machine Learning Engineer & Data Scientist** based in Japan, passionate abou
   <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=python,pytorch,tensorflow,docker,airflow,aws,postgres,mongodb,redis,git,linux,javascript" />
 </p>
 
-**Core Technologies:**
-- **Languages**: Python, JavaScript
-- **ML/AI**: PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NumPy
-- **Data Pipeline**: Apache Airflow, dbt, Spark
-- **Cloud**: AWS (SageMaker, EC2, S3, Lambda), Docker, Kubernetes
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **APIs & Frameworks**: FastAPI, Flask, REST
-
 ---
 
 ## 📈 GitHub Statistics
